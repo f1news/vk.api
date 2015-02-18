@@ -4,6 +4,8 @@ namespace F1news\SocialPlugins;
  * Class Vk
  * author: Dmitriy Nyashkin
  */
+use \CURLFile;
+
 class VkApi{
 
     const API_VERSION = '5.24';
