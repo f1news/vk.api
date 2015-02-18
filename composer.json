@@ -1,5 +1,6 @@
 {
-    "name": "f1news/vk.api",
+    "name": "f1news/vk-api",
+    "description": "Vkontakte API classs",
     "autoload": {
         "psr-0" : {
             "F1news\\SocialPlugins" : "src"
