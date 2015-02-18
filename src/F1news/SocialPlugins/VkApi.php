@@ -1,9 +1,10 @@
 <?php
+namespace F1news\SocialPlugins
 /*
  * Class Vk
  * author: Dmitriy Nyashkin
  */
-class Vk{
+class VkApi{
 
     const API_VERSION = '5.24';
 

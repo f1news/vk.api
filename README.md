@@ -16,8 +16,7 @@ vk.api
 Выполним метод get_code_token для получения ссылки которая вернёт нам code
 
 ```php
-	include('vk.api.php');
-	$v = new Vk($config);
+	$v = new VkApi($config);
 	$url = $v->get_code_token();
 	
 	echo $url;
@@ -44,7 +43,7 @@ vk.api
 	$config['access_token'] = 'ваш токен доступа';
 	$config['scope'] = 'wall,photos,video'; // права доступа к методам (для генерации токена)
 	
-	$v = new Vk($config);
+	$v = new VkApi($config);
 	
 	// пример публикации сообщения на стене пользователя
 	// значения массива соответствуют значениям в Api https://vk.com/dev/wall.post

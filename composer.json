@@ -1,0 +1,8 @@
+{
+    "name": "f1news/vk.api",
+    "autoload": {
+        "psr-0" : {
+            "F1news\\SocialPlugins" : "src"
+        }
+    }
+}
