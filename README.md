@@ -1,8 +1,6 @@
 vk.api
 ======
 
-<iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/small.xml?account=4100145951798&quickpay=small&yamoney-payment-type=on&button-text=06&button-size=s&button-color=black&targets=%D0%9D%D0%B0+%D0%BA%D0%BE%D1%84%D0%B5+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83&default-sum=100&successURL=" width="147" height="31"></iframe>
-
 Работа с API Вконтакте для StandAlone приложений на языке php.
 
 Для работы с api вам необходимо выполнить несколько действий:
