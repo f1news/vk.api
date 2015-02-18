@@ -1,5 +1,5 @@
 <?php
-namespace F1news\SocialPlugins
+namespace F1news\SocialPlugins;
 /*
  * Class Vk
  * author: Dmitriy Nyashkin
